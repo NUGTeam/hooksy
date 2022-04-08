@@ -1,14 +1,20 @@
 # hooksy
 
-A python program that sends messages for Discord webhooks. This program is made by 2 idiots.
-
-Arezal - Coder
-
-Mini (aka Iemane291) - Coder, Creator
+A python program that sends messages for Discord webhooks. This program is made by 1 idiot.
 
 # Installation
 
 This is the installation guide on how to install Hooksy.
+
+## Easy Way
+
+Go to the [releases](https://github.com/NUGTeam/hooksy/releases) and download the latest version or whatever version you want to download, there should be a ZIP archive attached to it. Download and extract the ZIP archive and run the hooksy.exe file.
+
+If you get an issue like 'Cannot import QtCore from PyQt5' then do it the "Hard Way".
+
+## Hard Way
+
+**DO IT THIS WAY IF YOU ARE A PYTHON DEVELOPER OR IF YOU THINK THE EXECUTABLE IS MALICIOUS**
 
 ### Prequisites
 
@@ -37,3 +43,6 @@ Please follow these steps in order to run hooksy:
 1.0:
 - Initial release of Hooksy.
 - Send discord webhook messages through Hooksy, a little bit buggy.
+
+# Credits
+- [Mini](https://twitter.com/minilol69) - Creator, Programming
